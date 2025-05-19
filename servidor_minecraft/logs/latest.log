@@ -4179,3 +4179,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 20:55:06.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:51563] logged in with entity id 646 at (2252.46784161034, 69.875, 3340.394353451878)
 [19May2025 20:55:06.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [19May2025 20:55:06.913] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 21:04:35.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[19May2025 21:14:35.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has completed the challenge [It Spreads]
