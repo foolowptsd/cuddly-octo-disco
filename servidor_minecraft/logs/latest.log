@@ -4225,3 +4225,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 21:45:49.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:44317] logged in with entity id 24921 at (4203.3840943747655, 75.0, 3347.3777668213684)
 [19May2025 21:45:49.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [19May2025 21:45:49.389] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 21:46:49.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 21:46:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 21:48:14.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:60303] logged in with entity id 26103 at (4203.3840943747655, 75.0, 3347.3777668213684)
+[19May2025 21:48:14.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 21:48:14.480] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 21:48:17.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! -2.602013359378361,-2.338731787817821,9.531477276130317
+[19May2025 21:49:14.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 21:49:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 21:51:19.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:55417] logged in with entity id 27653 at (4203.3840943747655, 75.0, 3347.3777668213684)
+[19May2025 21:51:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 21:51:19.349] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 21:52:09.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[19May2025 21:52:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[19May2025 21:55:10.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26577, l='ServerLevel[madafaka]', x=4443.27, y=63.00, z=3364.53] died, message: 'Farmer hit the ground too hard'
+[19May2025 21:56:26.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:47771] logged in with entity id 29688 at (4203.3840943747655, 75.0, 3347.3777668213684)
+[19May2025 21:56:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[19May2025 21:56:26.605] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
