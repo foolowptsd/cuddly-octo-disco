@@ -3675,6 +3675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-19 23:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-05-19 22:23:34 +0000"
@@ -3690,6 +3696,12 @@
   "minecraft:recipes/building_blocks/dye_light_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-19 23:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-19 23:49:18 +0000"
     },
     "done": true
   },
@@ -3720,6 +3732,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-19 22:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-19 23:49:18 +0000"
     },
     "done": true
   },
