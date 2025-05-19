@@ -4242,3 +4242,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19May2025 21:56:26.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.88.128.135:47771] logged in with entity id 29688 at (4203.3840943747655, 75.0, 3347.3777668213684)
 [19May2025 21:56:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [19May2025 21:56:26.605] [Server thread/INFO] [Jade/]: Syncing config to KairosArch (0c768784-8fd5-3278-b680-2da651120cc7)
+[19May2025 21:56:56.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[19May2025 21:56:56.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
