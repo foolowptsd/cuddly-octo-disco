@@ -5893,3 +5893,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 17:25:25.914] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: darkbread:redstonebreadrecipe removed now.
 [20May2025 17:25:25.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.144.247.154:41037] logged in with entity id 62581 at (2573.108256634831, 62.07326432503174, 3018.0979213697287)
 [20May2025 17:25:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[20May2025 17:43:16.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:40013] logged in with entity id 66486 at (4196.984983316701, 75.0, 3347.9951957474377)
+[20May2025 17:43:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
