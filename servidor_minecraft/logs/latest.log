@@ -73,3 +73,6 @@
 [20May2025 00:59:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzzzzzzzzzzzzz
 [20May2025 01:30:23.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
 [20May2025 01:30:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[20May2025 01:32:38.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:34797] logged in with entity id 116952 at (4202.8228347720205, 79.0, 3350.4734306549403)
+[20May2025 01:32:38.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[20May2025 01:32:38.975] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
