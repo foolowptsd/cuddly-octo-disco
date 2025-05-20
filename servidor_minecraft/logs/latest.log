@@ -5605,3 +5605,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 22:06:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Masquerade]
 [20May2025 22:19:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Gravedigger]
 [20May2025 22:20:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Pseudo Archaeologist]
+[20May2025 22:31:00.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[20May2025 22:31:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
