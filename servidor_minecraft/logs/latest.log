@@ -20,3 +20,18 @@
 [20May2025 00:28:11.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:46625] logged in with entity id 81640 at (4197.952912203826, 75.0, 3351.6786070540784)
 [20May2025 00:28:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [20May2025 00:28:11.678] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
+[20May2025 00:37:22.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ander31[/127.205.183.188:50451] logged in with entity id 86704 at (31.5, 70.0, -8.5)
+[20May2025 00:37:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 joined the game
+[20May2025 00:37:22.258] [Server thread/INFO] [Jade/]: Syncing config to ander31 (b1453593-5f83-3666-8d38-4070cb18656a)
+[20May2025 00:37:53.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[20May2025 00:37:53.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[20May2025 00:38:00.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ander31[/127.205.183.188:58609] logged in with entity id 87554 at (31.5, 70.0, -8.5)
+[20May2025 00:38:00.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 joined the game
+[20May2025 00:38:00.054] [Server thread/INFO] [Jade/]: Syncing config to ander31 (b1453593-5f83-3666-8d38-4070cb18656a)
+[20May2025 00:38:28.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[20May2025 00:38:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[20May2025 00:38:34.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ander31[/127.205.183.188:55831] logged in with entity id 88284 at (31.5, 70.0, -8.5)
+[20May2025 00:38:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 joined the game
+[20May2025 00:38:34.516] [Server thread/INFO] [Jade/]: Syncing config to ander31 (b1453593-5f83-3666-8d38-4070cb18656a)
+[20May2025 00:39:04.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Timed out
+[20May2025 00:39:04.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game

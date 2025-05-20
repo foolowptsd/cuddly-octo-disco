@@ -3876,6 +3876,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+    "criteria": {
+      "has_flower": "2025-05-19 21:03:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-19 21:05:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-19 21:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 21:06:17 +0000"
@@ -3894,12 +3912,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-05-19 21:05:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 21:06:17 +0000"
@@ -3909,12 +3921,6 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 21:06:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
     },
     "done": true
   },
@@ -3936,39 +3942,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 21:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-19 22:00:00 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_redwood_planks": "2025-05-19 21:49:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-05-19 21:44:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
     },
     "done": true
   },
@@ -3990,45 +3966,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
-    "criteria": {
-      "bypassingthe_expiration_date_0": "2025-05-19 22:24:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-05-19 21:42:16 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 21:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-19 22:00:00 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_slab": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
     },
     "done": true
   },
@@ -4044,27 +3984,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_small_blimp": {
-    "criteria": {
-      "location0": "2025-05-19 21:58:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 21:06:17 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-19 21:49:41 +0000"
     },
     "done": true
   },
@@ -4080,15 +4002,93 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "has_baked_potato": "2025-05-19 21:05:33 +0000"
+      "shot_crossbow": "2025-05-19 21:42:16 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_flower": "2025-05-19 21:03:50 +0000"
+      "has_logs": "2025-05-19 21:44:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-19 21:49:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-05-19 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-19 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-05-19 22:24:13 +0000"
     },
     "done": true
   },
