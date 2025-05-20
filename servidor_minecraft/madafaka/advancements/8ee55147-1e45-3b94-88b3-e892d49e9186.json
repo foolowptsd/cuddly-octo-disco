@@ -80,7 +80,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-20 14:02:52 +0000",
       "minecraft:deep_ocean": "2025-05-18 23:38:44 +0000",
+      "minecraft:frozen_river": "2025-05-20 14:06:23 +0000",
       "minecraft:cherry_grove": "2025-05-18 23:59:16 +0000",
       "minecraft:birch_forest": "2025-05-18 23:40:48 +0000",
       "minecraft:windswept_hills": "2025-05-19 00:40:38 +0000",
@@ -90,13 +92,17 @@
       "minecraft:savanna_plateau": "2025-05-19 00:05:58 +0000",
       "minecraft:beach": "2025-05-18 23:24:23 +0000",
       "minecraft:stony_peaks": "2025-05-19 11:51:03 +0000",
+      "minecraft:dark_forest": "2025-05-20 14:44:33 +0000",
+      "minecraft:mangrove_swamp": "2025-05-20 14:25:14 +0000",
       "minecraft:sparse_jungle": "2025-05-18 23:21:25 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 23:32:44 +0000",
       "minecraft:river": "2025-05-18 23:19:22 +0000",
       "minecraft:stony_shore": "2025-05-18 23:16:56 +0000",
+      "minecraft:snowy_plains": "2025-05-20 14:09:35 +0000",
       "minecraft:cold_ocean": "2025-05-19 00:28:00 +0000",
       "minecraft:forest": "2025-05-18 23:40:28 +0000",
       "minecraft:deep_cold_ocean": "2025-05-19 00:27:47 +0000",
+      "minecraft:frozen_ocean": "2025-05-20 14:12:48 +0000",
       "minecraft:desert": "2025-05-19 01:21:08 +0000",
       "minecraft:jungle": "2025-05-18 23:17:46 +0000",
       "minecraft:ocean": "2025-05-18 23:39:23 +0000",
@@ -225,16 +231,25 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-05-20 14:10:45 +0000",
       "woodland": "2025-05-18 23:27:34 +0000",
       "shrubland": "2025-05-19 00:42:01 +0000",
+      "snowblossom_grove": "2025-05-20 14:11:27 +0000",
       "rocky_shrubland": "2025-05-19 01:08:42 +0000",
       "scrubland": "2025-05-18 23:49:50 +0000",
+      "bayou": "2025-05-20 14:25:03 +0000",
       "highland": "2025-05-19 00:38:51 +0000",
       "clover_patch": "2025-05-18 23:30:18 +0000",
+      "cold_desert": "2025-05-20 14:06:27 +0000",
       "old_growth_woodland": "2025-05-18 23:32:26 +0000",
       "maple_woods": "2025-05-19 00:17:13 +0000",
+      "field": "2025-05-20 14:03:10 +0000",
+      "orchard": "2025-05-20 14:38:01 +0000",
       "lavender_forest": "2025-05-18 23:57:37 +0000",
       "mediterranean_forest": "2025-05-18 23:50:15 +0000",
+      "coniferous_forest": "2025-05-20 14:04:10 +0000",
+      "forested_field": "2025-05-20 14:15:00 +0000",
+      "spider_nest": "2025-05-20 14:08:24 +0000",
       "wasteland": "2025-05-19 01:21:30 +0000",
       "redwood_forest": "2025-05-19 00:09:02 +0000",
       "dune_beach": "2025-05-19 19:12:54 +0000",
@@ -245,9 +260,13 @@
       "volcanic_plains": "2025-05-18 23:18:16 +0000",
       "lavender_field": "2025-05-18 23:57:59 +0000",
       "grassland": "2025-05-18 23:31:37 +0000",
+      "tundra": "2025-05-20 14:06:33 +0000",
       "glowing_grotto": "2025-05-19 01:30:40 +0000",
       "origin_valley": "2025-05-19 19:18:04 +0000",
-      "rainforest": "2025-05-18 23:24:32 +0000"
+      "rainforest": "2025-05-18 23:24:32 +0000",
+      "crag": "2025-05-20 14:04:12 +0000",
+      "snowy_maple_woods": "2025-05-20 14:10:54 +0000",
+      "ominous_woods": "2025-05-20 14:04:39 +0000"
     },
     "done": false
   },
@@ -4891,9 +4910,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 14:04:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-20 14:14:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
     },
     "done": true
   },
@@ -4903,9 +4958,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -4927,6 +5000,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
@@ -4939,9 +5018,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
     },
     "done": true
   },
@@ -4954,6 +5051,30 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-20 14:41:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -4981,9 +5102,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-05-20 14:31:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -4999,9 +5132,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
     },
     "done": true
   },
@@ -5017,15 +5162,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
     },
     "done": true
   },
+  "cgm:recipes/combat/advanced_bullet": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 14:07:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-05-20 14:08:52 +0000"
     },
     "done": true
   },
@@ -5047,9 +5216,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-20 14:08:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -5059,15 +5258,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-05-20 14:25:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-05-20 14:23:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-20 14:40:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-20 14:41:58 +0000"
     },
     "done": true
   },
@@ -5080,6 +5321,12 @@
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-20 14:38:57 +0000"
     },
     "done": true
   },
@@ -5107,9 +5354,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 14:04:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-20 14:41:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-20 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -5125,6 +5402,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-20 14:42:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
@@ -5134,6 +5423,18 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-20 14:41:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -5149,15 +5450,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-20 13:31:07 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/shell": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 14:07:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
     },
     "done": true
   },
@@ -5173,9 +5516,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-05-20 14:41:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
     },
     "done": true
   },
@@ -5185,9 +5564,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-20 14:08:23 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
@@ -5197,15 +5624,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 13:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-20 14:44:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-20 14:42:04 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/basic_bullet": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 14:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-20 13:50:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-20 13:26:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_log": "2025-05-20 13:44:21 +0000"
     },
     "done": true
   },
