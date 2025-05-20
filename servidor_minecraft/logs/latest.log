@@ -71,3 +71,5 @@
 [20May2025 00:42:47.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
 [20May2025 00:42:47.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
 [20May2025 00:59:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzzzzzzzzzzzzz
+[20May2025 01:30:23.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[20May2025 01:30:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
