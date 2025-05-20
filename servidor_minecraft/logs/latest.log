@@ -83,3 +83,9 @@
 [20May2025 01:54:54.673] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
 [20May2025 01:55:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzzzzzz
 [20May2025 02:05:51.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzz
+[20May2025 02:24:15.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Voluntary Exile]
+[20May2025 02:25:42.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Timed out
+[20May2025 02:25:42.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[20May2025 02:25:48.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:35107] logged in with entity id 138487 at (4199.775925288562, 75.0, 3348.5023465645845)
+[20May2025 02:25:48.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[20May2025 02:25:48.069] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
