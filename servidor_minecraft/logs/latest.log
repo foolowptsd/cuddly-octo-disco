@@ -5882,3 +5882,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 14:42:52.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
 [20May2025 14:45:30.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
 [20May2025 14:45:30.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[20May2025 17:20:18.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11b6ba51[id=<null>,name=KairosArch,properties={},legacy=false] (/127.144.247.154:47643) lost connection: Disconnected
