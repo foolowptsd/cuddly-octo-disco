@@ -5883,3 +5883,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 14:45:30.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
 [20May2025 14:45:30.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
 [20May2025 17:20:18.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11b6ba51[id=<null>,name=KairosArch,properties={},legacy=false] (/127.144.247.154:47643) lost connection: Disconnected
+[20May2025 17:25:25.865] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/0c768784-8fd5-3278-b680-2da651120cc7.json: Don't know what map_atlases:atlas is
+[20May2025 17:25:25.865] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/0c768784-8fd5-3278-b680-2da651120cc7.json: Don't know what darkbread:redstone_bread is
+[20May2025 17:25:25.865] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/0c768784-8fd5-3278-b680-2da651120cc7.json: Don't know what map_atlases:atlas is
+[20May2025 17:25:25.866] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/0c768784-8fd5-3278-b680-2da651120cc7.json: Don't know what map_atlases:atlas is
+[20May2025 17:25:25.866] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/0c768784-8fd5-3278-b680-2da651120cc7.json: Don't know what champions:champion_mobs_killed is
+[20May2025 17:25:25.867] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/0c768784-8fd5-3278-b680-2da651120cc7.json: Don't know what darkbread:redstone_bread is
+[20May2025 17:25:25.881] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'champions:kill_a_champion' in progress file ./madafaka/advancements/0c768784-8fd5-3278-b680-2da651120cc7.json - it doesn't exist anymore?
+[20May2025 17:25:25.914] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: darkbread:redstonebreadrecipe removed now.
+[20May2025 17:25:25.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.144.247.154:41037] logged in with entity id 62581 at (2573.108256634831, 62.07326432503174, 3018.0979213697287)
+[20May2025 17:25:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
