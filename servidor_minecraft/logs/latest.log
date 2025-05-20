@@ -89,3 +89,5 @@
 [20May2025 02:25:48.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:35107] logged in with entity id 138487 at (4199.775925288562, 75.0, 3348.5023465645845)
 [20May2025 02:25:48.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
 [20May2025 02:25:48.069] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
+[20May2025 02:49:29.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[20May2025 02:49:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
