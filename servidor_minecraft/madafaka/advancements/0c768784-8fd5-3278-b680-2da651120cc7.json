@@ -3783,6 +3783,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
       "has_log": "2025-05-20 17:25:26 +0000"
@@ -3822,6 +3828,12 @@
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2025-05-20 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
     },
     "done": true
   },
@@ -3867,9 +3879,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-05-20 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-05-20 18:24:35 +0000"
     },
     "done": true
   },
@@ -4005,6 +4029,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_log": "2025-05-20 17:25:26 +0000"
@@ -4020,6 +4050,12 @@
   "cfm:recipes/decorations/oak_blinds": {
     "criteria": {
       "has_log": "2025-05-20 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
     },
     "done": true
   },
@@ -4086,6 +4122,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-05-20 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
     },
     "done": true
   },
@@ -4245,6 +4287,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-05-20 17:25:26 +0000"
@@ -4275,6 +4329,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/combat/rifle": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 17:25:26 +0000"
@@ -4296,6 +4356,12 @@
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-05-20 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
     },
     "done": true
   },
@@ -4359,6 +4425,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_log": "2025-05-20 17:25:26 +0000"
@@ -4374,6 +4446,12 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-20 17:25:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-20 18:24:35 +0000"
     },
     "done": true
   },

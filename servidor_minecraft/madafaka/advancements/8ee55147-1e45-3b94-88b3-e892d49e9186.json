@@ -5672,9 +5672,27 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-05-20 18:23:41 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-05-20 18:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-05-20 18:07:57 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-05-20 18:23:41 +0000"
     },
     "done": true
   },
