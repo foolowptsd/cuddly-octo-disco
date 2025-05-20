@@ -5895,3 +5895,132 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [20May2025 17:25:25.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [20May2025 17:43:16.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:40013] logged in with entity id 66486 at (4196.984983316701, 75.0, 3347.9951957474377)
 [20May2025 17:43:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[20May2025 18:07:13.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch withered away whilst fighting Nightmare Stalker
+[20May2025 18:07:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Postmortal]
+[20May2025 18:08:30.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Nightmare Stalker
+[20May2025 18:09:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail withered away
+[20May2025 18:09:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch withered away
+[20May2025 18:09:32.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch withered away whilst fighting Nightmare Stalker
+[20May2025 18:10:10.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail withered away
+[20May2025 18:10:19.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch withered away
+[20May2025 18:10:45.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail withered away
+[20May2025 18:11:47.797] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 1
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		3: ASM: class falconnex.legendsofslugterra.procedures.ThuggletProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: NORMAL
+		5: ASM: class tallestegg.guardvillagers.VillagerToGuard onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		6: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@467aace3 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: class vectorwing.farmersdelight.common.item.HorseFeedItem$HorseFeedEvent onHorseFeedApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class vectorwing.farmersdelight.common.item.DogFoodItem$DogFoodEvent onDogFoodApplied(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@5ecda6be onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1674daa4 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@72b4a22a onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$4244/0x0000710888ab2250@77b924e7
+		13: ASM: class falconnex.legendsofslugterra.procedures.XmitterProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		14: ASM: class falconnex.legendsofslugterra.procedures.WhiteBoonDocProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		15: ASM: class falconnex.legendsofslugterra.procedures.VinedrillAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		16: ASM: class falconnex.legendsofslugterra.procedures.TormatoProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		17: ASM: class falconnex.legendsofslugterra.procedures.ThresherProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		18: ASM: class falconnex.legendsofslugterra.procedures.TazerlingProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		19: ASM: class net.mcreator.borninchaosv.procedures.TransmutingElixirclicProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		20: ASM: class net.mcreator.borninchaosv.procedures.ThornshellCrabPriShchielchkiePKMPoSushchnostiProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		21: ASM: class falconnex.legendsofslugterra.procedures.TameSlugProcedureProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		22: ASM: class falconnex.legendsofslugterra.procedures.SpeedstingerProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		23: ASM: class net.mcreator.borninchaosv.procedures.SwarmerPreparationProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		24: ASM: class falconnex.legendsofslugterra.procedures.RightClickProtoformPowerUpProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		25: ASM: class falconnex.legendsofslugterra.procedures.RidingTheDropProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		26: ASM: class falconnex.legendsofslugterra.procedures.RammstoneProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		27: ASM: class falconnex.legendsofslugterra.procedures.PoleroProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		28: ASM: class falconnex.legendsofslugterra.procedures.PieperProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		29: ASM: class falconnex.legendsofslugterra.procedures.NeotoxProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		30: ASM: class falconnex.legendsofslugterra.procedures.NegashadeProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		31: ASM: class falconnex.legendsofslugterra.procedures.MakobreakerProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		32: ASM: class falconnex.legendsofslugterra.procedures.LavalynxProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		33: ASM: class falconnex.legendsofslugterra.procedures.LariatProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		34: ASM: class falconnex.legendsofslugterra.procedures.JellyishProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		35: ASM: class falconnex.legendsofslugterra.procedures.InfurnusYellowProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		36: ASM: class falconnex.legendsofslugterra.procedures.InfurnusProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		37: ASM: class falconnex.legendsofslugterra.procedures.HypnogrifProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		38: ASM: class falconnex.legendsofslugterra.procedures.HoverbugProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		39: ASM: class falconnex.legendsofslugterra.procedures.HoprockProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		40: ASM: class falconnex.legendsofslugterra.procedures.HexletAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		41: ASM: class falconnex.legendsofslugterra.procedures.GreenBoonDocProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		42: ASM: class falconnex.legendsofslugterra.procedures.GeoshardProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		43: ASM: class falconnex.legendsofslugterra.procedures.GazzerProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		44: ASM: class falconnex.legendsofslugterra.procedures.FrostcrawlerProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		45: ASM: class falconnex.legendsofslugterra.procedures.FrightgeistProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		46: ASM: class falconnex.legendsofslugterra.procedures.FlatulorhinkusProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		47: ASM: class falconnex.legendsofslugterra.procedures.FlaringoProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		48: ASM: class net.mcreator.borninchaosv.procedures.DreadHoundPriNazhatiiPravoiKnopkiNaSushchnostProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		49: ASM: class falconnex.legendsofslugterra.procedures.BubbaleoneProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		50: ASM: class falconnex.legendsofslugterra.procedures.BlastipedeProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		51: ASM: class falconnex.legendsofslugterra.procedures.ArachnetProtoAbilityProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		52: ASM: class falconnex.legendsofslugterra.procedures.AquabeekProtoAbilityProcedure onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		53: ASM: class net.mcreator.borninchaosv.procedures.DarkRitualDaggerPProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		54: ASM: de.maxhenkel.camera.ServerEvents@3140b86a onLeftClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[20May2025 18:11:47.803] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@441e235, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23213!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23213!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23213!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23300!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23295!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
