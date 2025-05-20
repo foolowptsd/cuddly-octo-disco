@@ -4354,6 +4354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-20 22:01:47 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-20 22:06:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-20 21:32:04 +0000"
@@ -4375,6 +4387,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-20 21:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-20 22:05:12 +0000"
     },
     "done": true
   },
@@ -4423,6 +4441,12 @@
   "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-20 22:01:47 +0000"
     },
     "done": true
   },
@@ -4486,6 +4510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-20 22:01:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-05-20 20:59:24 +0000"
@@ -4498,6 +4528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-20 22:05:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 21:32:04 +0000"
@@ -4507,6 +4543,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-05-20 20:59:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-20 22:03:24 +0000"
     },
     "done": true
   },
@@ -4531,6 +4573,12 @@
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-20 22:01:47 +0000"
     },
     "done": true
   },
@@ -4576,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 22:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-20 21:25:01 +0000"
@@ -4588,9 +4642,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 22:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-05-20 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-20 22:01:47 +0000"
     },
     "done": true
   },
@@ -4603,6 +4669,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-20 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-20 22:01:47 +0000"
     },
     "done": true
   },
@@ -4654,6 +4726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-20 22:05:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-05-20 20:59:24 +0000"
@@ -4669,6 +4747,12 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-05-20 21:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-20 22:05:12 +0000"
     },
     "done": true
   },
