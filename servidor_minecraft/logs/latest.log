@@ -1,2 +1,22 @@
 [20May2025 00:06:33.249] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65b409a1[id=<null>,name=sokrose,properties={},legacy=false] (/127.86.26.185:43619) lost connection: Disconnected
 [20May2025 00:07:52.549] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@213087eb[id=<null>,name=sokrose,properties={},legacy=false] (/127.86.26.185:56579) lost connection: Disconnected
+[20May2025 00:13:47.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sokrose[/127.86.26.185:50373] logged in with entity id 79285 at (36.5, 70.0, -10.5)
+[20May2025 00:13:47.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose joined the game
+[20May2025 00:13:47.502] [Server thread/INFO] [Jade/]: Syncing config to sokrose (c53bd173-f321-3987-8dbf-6e96e9326385)
+[20May2025 00:14:53.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose lost connection: Disconnected
+[20May2025 00:14:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
+[20May2025 00:17:33.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sokrose[/127.86.26.185:33727] logged in with entity id 79758 at (35.24779602739091, 71.0, -1.6160465359797827)
+[20May2025 00:17:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose joined the game
+[20May2025 00:17:33.650] [Server thread/INFO] [Jade/]: Syncing config to sokrose (c53bd173-f321-3987-8dbf-6e96e9326385)
+[20May2025 00:19:39.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Nightmare Stalker
+[20May2025 00:20:15.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Nightmare Stalker
+[20May2025 00:20:22.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Nightmare Stalker
+[20May2025 00:20:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Nightmare Stalker
+[20May2025 00:20:43.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Nightmare Stalker
+[20May2025 00:20:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Nightmare Stalker
+[20May2025 00:21:03.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Lifestealer
+[20May2025 00:21:03.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose lost connection: Disconnected
+[20May2025 00:21:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
+[20May2025 00:28:11.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:46625] logged in with entity id 81640 at (4197.952912203826, 75.0, 3351.6786070540784)
+[20May2025 00:28:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[20May2025 00:28:11.678] [Server thread/INFO] [Jade/]: Syncing config to blackdesfail (8ee55147-1e45-3b94-88b3-e892d49e9186)
