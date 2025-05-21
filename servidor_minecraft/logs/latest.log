@@ -6675,3 +6675,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 16:31:36.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2244, y=64, z=3332} BlockPos{x=2244, y=63, z=3332}
 [21May2025 16:31:36.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2244, y=64, z=3332} BlockPos{x=2244, y=63, z=3332}
 [21May2025 16:31:36.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2244, y=64, z=3332} BlockPos{x=2244, y=63, z=3332}
+[21May2025 16:36:47.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzzzzzz
+[21May2025 16:38:43.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2386, y=64, z=3233} BlockPos{x=2384, y=64, z=3233}
+[21May2025 16:38:44.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2387, y=64, z=3231} BlockPos{x=2385, y=63, z=3231}
+[21May2025 16:38:44.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2387, y=64, z=3231} BlockPos{x=2385, y=63, z=3231}
+[21May2025 16:40:58.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.2506087515562285
+[21May2025 16:40:58.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.6165989665978486
+[21May2025 16:40:58.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 0.982580265645538
+[21May2025 16:40:58.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 1.348553540298326
+[21May2025 16:40:58.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 1.7145195929965666
+[21May2025 16:40:58.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 2.102984273204129
+[21May2025 16:41:48.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15780, l='ServerLevel[madafaka]', x=2288.82, y=62.49, z=3503.12] died, message: 'Villager was slain by Drowned'
