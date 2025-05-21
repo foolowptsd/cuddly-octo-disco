@@ -5576,3 +5576,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 01:30:49.466] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21May2025 01:30:49.479] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [21May2025 01:48:49.240] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5330969f[id=<null>,name=ander31,properties={},legacy=false] (/127.205.183.188:49837) lost connection: Disconnected
+[21May2025 01:51:03.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78f5e9f5[id=<null>,name=ander31,properties={},legacy=false] (/127.205.183.188:37189) lost connection: Disconnected
+[21May2025 01:51:25.543] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21May2025 01:51:25.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ander31[/127.205.183.188:51633] logged in with entity id 78 at (31.5, 70.0, -8.5)
+[21May2025 01:51:25.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 joined the game
+[21May2025 01:51:42.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 has made the advancement [Alex's Mobs]
+[21May2025 01:51:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
+[21May2025 01:52:07.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
+[21May2025 01:52:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game

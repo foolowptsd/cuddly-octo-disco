@@ -84,5 +84,35 @@
     },
     "done": false
   },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-21 01:51:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "volcanic_plains": "2025-05-21 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-21 01:51:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "volcanic_plains": "2025-05-21 01:51:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-21 01:51:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
