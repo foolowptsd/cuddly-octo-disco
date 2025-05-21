@@ -5575,3 +5575,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 01:30:49.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.989s)! For help, type "help"
 [21May2025 01:30:49.466] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21May2025 01:30:49.479] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
+[21May2025 01:48:49.240] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5330969f[id=<null>,name=ander31,properties={},legacy=false] (/127.205.183.188:49837) lost connection: Disconnected
