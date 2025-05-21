@@ -6235,3 +6235,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 15:58:40.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by Restless Spirit
 [21May2025 15:59:32.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [21May2025 15:59:55.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/266, l='ServerLevel[madafaka]', x=-242.77, y=76.18, z=211.48] died, message: 'Farmer was slain by Zombie Bruiser'
+[21May2025 16:05:57.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch fell from a high place
+[21May2025 16:09:20.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[21May2025 16:09:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[21May2025 16:09:20.549] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 16:09:49.297] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64b2ea4a[id=<null>,name=blackdesfail,properties={},legacy=false] (/127.195.151.45:38929) lost connection: Disconnected
+[21May2025 16:09:59.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:50397] logged in with entity id 7664 at (4198.352912393863, 32.0, 3410.140613441101)
+[21May2025 16:09:59.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[21May2025 16:10:23.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch moved wrongly!
+[21May2025 16:11:04.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by KairosArch
