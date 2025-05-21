@@ -4874,15 +4874,591 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-21 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-05-21 16:17:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-21 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-21 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-21 16:17:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-21 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-21 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-21 16:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 16:20:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:46 +0000"
     },
     "done": true
   },
