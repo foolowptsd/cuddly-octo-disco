@@ -5584,3 +5584,620 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 01:51:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server a
 [21May2025 01:52:07.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ander31 lost connection: Disconnected
 [21May2025 01:52:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ander31 left the game
+[21May2025 02:31:12.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.144.247.154:44207] logged in with entity id 605 at (2239.866572920655, 63.0, 3336.9236694791975)
+[21May2025 02:31:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[21May2025 02:33:22.022] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/blue_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.022] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_blue_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.022] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/brown_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.023] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/fridge_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.023] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/black_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.023] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/yellow_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.023] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/fridge_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.023] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/blue_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.024] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/lime_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.024] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/white_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.024] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/yellow_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.024] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/orange_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.024] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/gray_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.024] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/red_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.025] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/magenta_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.025] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/pink_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.025] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/gray_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.025] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/brown_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.025] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/black_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.025] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_blue_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/misc/ice_from_freezing' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/green_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/tools/spatula' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/pink_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/purple_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.026] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/white_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/post_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/cyan_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/purple_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/green_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/cyan_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.027] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/orange_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.028] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/magenta_trampoline' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.028] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/lime_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.028] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/red_grill' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.028] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_warped_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.028] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/acacia_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.028] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/jungle_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/brown_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_warped_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_jungle_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/magenta_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/oak_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.029] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/white_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.030] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.030] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/lime_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.030] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/purple_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.030] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/acacia_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.030] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_oak_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.030] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/black_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/orange_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/gray_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/blue_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/mangrove_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/pink_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.031] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/mangrove_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_acacia_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/birch_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/yellow_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/birch_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/cyan_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.032] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/green_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_crimson_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_birch_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/warped_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/crimson_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.033] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/jungle_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/warped_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_birch_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/crimson_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_oak_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.034] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/oak_kitchen_sink_light' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_blue_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/red_kitchen_sink' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_kitchen_counter' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_coffee_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_chair' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_desk' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_park_bench' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.035] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_coffee_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_chair' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_upgraded_fence' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_park_bench' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_blinds' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_crate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.036] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.037] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_crate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.037] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_upgraded_gate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.037] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_bedside_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.037] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_desk_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.037] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_kitchen_counter' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.037] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_desk' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.038] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.038] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_desk_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.038] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.038] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_bedside_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.038] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.038] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_park_bench' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.039] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_kitchen_counter' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.039] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_desk_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.039] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_blinds' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.039] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.039] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_crate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.040] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_park_bench' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.040] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.040] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_coffee_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.040] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_upgraded_fence' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.040] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.041] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.041] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_chair' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.041] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.041] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.041] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_upgraded_gate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.041] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_chair' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.042] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.042] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_coffee_table' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.042] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_crate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.042] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_bedside_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.042] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_desk' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.042] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_desk_cabinet' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.043] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_desk' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.043] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_kitchen_counter' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.043] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_picket_gate' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.043] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_picket_fence' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.043] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/orange_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.043] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/brown_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.044] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/dark_oak_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.044] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/gray_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.044] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_acacia_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.044] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/birch_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.044] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/blue_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.044] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_spruce_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.045] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/cyan_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.045] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_mangrove_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.045] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_oak_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.045] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_mangrove_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.045] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_jungle_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.046] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_oak_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.046] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/acacia_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.046] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/cyan_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.046] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/crimson_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.046] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/red_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.046] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/jungle_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/red_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/crimson_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/acacia_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/pink_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/jungle_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/green_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.047] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_crimson_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/purple_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/green_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/blue_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/lime_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/white_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_crimson_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.048] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/warped_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/magenta_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/gray_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_jungle_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/yellow_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/birch_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/oak_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.049] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/magenta_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.050] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_warped_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.050] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/purple_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.050] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/black_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.050] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/orange_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.050] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/pink_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.050] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_birch_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.051] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_blue_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.051] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_blue_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.051] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.051] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/black_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.051] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/mangrove_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.051] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_dark_oak_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.052] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/mangrove_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.052] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/yellow_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.052] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/spruce_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.052] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/white_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.052] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/warped_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.052] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/lime_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.053] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/oak_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.053] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_acacia_mail_box' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.054] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_birch_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.054] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/brown_cooler' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.054] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/light_gray_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.055] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'cfm:recipes/decorations/stripped_warped_kitchen_drawer' in progress file ./madafaka/advancements/8ee55147-1e45-3b94-88b3-e892d49e9186.json - it doesn't exist anymore?
+[21May2025 02:33:22.071] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_kitchen_sink_dark removed now.
+[21May2025 02:33:22.071] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_cooler removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_mail_box removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_kitchen_sink removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:fridge_dark removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_trampoline removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_park_bench removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_bedside_cabinet removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_trampoline removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_crate removed now.
+[21May2025 02:33:22.072] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_cabinet removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_kitchen_sink_dark removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spatula removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_cooler removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_kitchen_sink removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_counter removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_kitchen_sink_light removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_desk removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_park_bench removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_desk removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_upgraded_fence removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_kitchen_sink_dark removed now.
+[21May2025 02:33:22.073] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_kitchen_drawer removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_grill removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_trampoline removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_kitchen_sink_light removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_chair removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_kitchen_drawer removed now.
+[21May2025 02:33:22.074] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_bedside_cabinet removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_kitchen_drawer removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_coffee_table removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_chair removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_kitchen_sink removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_mail_box removed now.
+[21May2025 02:33:22.075] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_trampoline removed now.
+[21May2025 02:33:22.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_cooler removed now.
+[21May2025 02:33:22.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_kitchen_sink removed now.
+[21May2025 02:33:22.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_bedside_cabinet removed now.
+[21May2025 02:33:22.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_upgraded_gate removed now.
+[21May2025 02:33:22.076] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_kitchen_sink removed now.
+[21May2025 02:33:22.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_drawer removed now.
+[21May2025 02:33:22.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_sink_light removed now.
+[21May2025 02:33:22.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_kitchen_sink_dark removed now.
+[21May2025 02:33:22.077] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_mail_box removed now.
+[21May2025 02:33:22.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_kitchen_drawer removed now.
+[21May2025 02:33:22.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_grill removed now.
+[21May2025 02:33:22.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_grill removed now.
+[21May2025 02:33:22.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_grill removed now.
+[21May2025 02:33:22.078] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_kitchen_drawer removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_kitchen_sink_light removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_kitchen_sink_dark removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_desk_cabinet removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_kitchen_sink_dark removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_kitchen_drawer removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_grill removed now.
+[21May2025 02:33:22.079] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_kitchen_sink removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_blinds removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_desk_cabinet removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_kitchen_sink_dark removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_crate removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_kitchen_drawer removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_coffee_table removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_counter removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_grill removed now.
+[21May2025 02:33:22.080] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_kitchen_drawer removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_mail_box removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_bedside_cabinet removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_kitchen_sink_dark removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_kitchen_sink removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_kitchen_drawer removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_cooler removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_grill removed now.
+[21May2025 02:33:22.081] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_kitchen_sink_light removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_kitchen_sink removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_cooler removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_grill removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_trampoline removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_kitchen_sink_light removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_picket_gate removed now.
+[21May2025 02:33:22.082] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_counter removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_grill removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_kitchen_drawer removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_mail_box removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_mail_box removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_trampoline removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_mail_box removed now.
+[21May2025 02:33:22.083] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_kitchen_drawer removed now.
+[21May2025 02:33:22.084] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_kitchen_drawer removed now.
+[21May2025 02:33:22.084] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_kitchen_drawer removed now.
+[21May2025 02:33:22.084] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_coffee_table removed now.
+[21May2025 02:33:22.084] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_cooler removed now.
+[21May2025 02:33:22.085] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_table removed now.
+[21May2025 02:33:22.085] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_grill removed now.
+[21May2025 02:33:22.085] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_cabinet removed now.
+[21May2025 02:33:22.085] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_cooler removed now.
+[21May2025 02:33:22.085] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_drawer removed now.
+[21May2025 02:33:22.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_trampoline removed now.
+[21May2025 02:33:22.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_kitchen_sink removed now.
+[21May2025 02:33:22.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_drawer removed now.
+[21May2025 02:33:22.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_kitchen_drawer removed now.
+[21May2025 02:33:22.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_table removed now.
+[21May2025 02:33:22.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_kitchen_drawer removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_mail_box removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_kitchen_sink removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_kitchen_sink removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_kitchen_sink_dark removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_park_bench removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_crate removed now.
+[21May2025 02:33:22.087] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_kitchen_drawer removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_kitchen_sink_dark removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_cabinet removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_kitchen_sink_light removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_kitchen_sink_dark removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_kitchen_drawer removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_sink_dark removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_trampoline removed now.
+[21May2025 02:33:22.088] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_mail_box removed now.
+[21May2025 02:33:22.089] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_kitchen_drawer removed now.
+[21May2025 02:33:22.089] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_mail_box removed now.
+[21May2025 02:33:22.089] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_trampoline removed now.
+[21May2025 02:33:22.089] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_cabinet removed now.
+[21May2025 02:33:22.089] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_kitchen_sink removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_grill removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_desk_cabinet removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_cooler removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_kitchen_sink removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_kitchen_drawer removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_trampoline removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_grill removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:fridge_light removed now.
+[21May2025 02:33:22.090] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_chair removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_cooler removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_table removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_kitchen_drawer removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_kitchen_sink_light removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_trampoline removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_drawer removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_mail_box removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_kitchen_sink_dark removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_kitchen_drawer removed now.
+[21May2025 02:33:22.091] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_desk removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_park_bench removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_kitchen_sink removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_cooler removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_mail_box removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_upgraded_fence removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_cooler removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_kitchen_sink_light removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_mail_box removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_trampoline removed now.
+[21May2025 02:33:22.092] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_kitchen_drawer removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_cooler removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_kitchen_drawer removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_cooler removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_kitchen_sink_light removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_kitchen_drawer removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_kitchen_drawer removed now.
+[21May2025 02:33:22.093] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_blinds removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_coffee_table removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_kitchen_drawer removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_trampoline removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_trampoline removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_picket_fence removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_cooler removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_cooler removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_kitchen_drawer removed now.
+[21May2025 02:33:22.094] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_trampoline removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_sink_light removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_kitchen_sink_light removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_trampoline removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_kitchen_drawer removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_chair removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_kitchen_drawer removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_mail_box removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_grill removed now.
+[21May2025 02:33:22.095] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_desk_cabinet removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_table removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_grill removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_grill removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_kitchen_drawer removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_upgraded_gate removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_kitchen_sink_light removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_grill removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_mail_box removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_mail_box removed now.
+[21May2025 02:33:22.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_mail_box removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:post_box removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_kitchen_sink removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_kitchen_sink removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_cooler removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_counter removed now.
+[21May2025 02:33:22.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_mail_box removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_kitchen_sink_light removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_desk removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_sink_dark removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_crate removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_kitchen_sink_dark removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_cooler removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_mail_box removed now.
+[21May2025 02:33:22.098] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_kitchen_sink removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:fridge_dark removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_trampoline removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_park_bench removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_bedside_cabinet removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_trampoline removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_crate removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_cabinet removed now.
+[21May2025 02:33:22.099] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_kitchen_sink_dark removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spatula removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_cooler removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_kitchen_sink removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_counter removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_kitchen_sink_light removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_desk removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_park_bench removed now.
+[21May2025 02:33:22.100] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_desk removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_upgraded_fence removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_kitchen_sink_dark removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_kitchen_drawer removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_grill removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_trampoline removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_kitchen_sink_light removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_chair removed now.
+[21May2025 02:33:22.101] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_kitchen_drawer removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_bedside_cabinet removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_kitchen_drawer removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_coffee_table removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_chair removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_kitchen_sink removed now.
+[21May2025 02:33:22.102] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_mail_box removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_trampoline removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_cooler removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_kitchen_sink removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_bedside_cabinet removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_upgraded_gate removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_kitchen_sink removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_drawer removed now.
+[21May2025 02:33:22.103] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_sink_light removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_kitchen_sink_dark removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_mail_box removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_kitchen_drawer removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_grill removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_grill removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_grill removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_kitchen_drawer removed now.
+[21May2025 02:33:22.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_kitchen_sink_light removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_kitchen_sink_dark removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_desk_cabinet removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_kitchen_sink_dark removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_kitchen_drawer removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_grill removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_kitchen_sink removed now.
+[21May2025 02:33:22.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_blinds removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_desk_cabinet removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_kitchen_sink_dark removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_crate removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_kitchen_drawer removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_coffee_table removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_counter removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_grill removed now.
+[21May2025 02:33:22.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_kitchen_drawer removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_mail_box removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_bedside_cabinet removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_kitchen_sink_dark removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_kitchen_sink removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_kitchen_drawer removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_cooler removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:yellow_grill removed now.
+[21May2025 02:33:22.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_kitchen_sink_light removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_kitchen_sink removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_cooler removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_grill removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_trampoline removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_kitchen_sink_light removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_picket_gate removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_counter removed now.
+[21May2025 02:33:22.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_grill removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_kitchen_drawer removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_mail_box removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_mail_box removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_trampoline removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_mail_box removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_kitchen_drawer removed now.
+[21May2025 02:33:22.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_kitchen_drawer removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_kitchen_drawer removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_coffee_table removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_cooler removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_table removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_grill removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_cabinet removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_cooler removed now.
+[21May2025 02:33:22.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_drawer removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_trampoline removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_kitchen_sink removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_drawer removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_kitchen_drawer removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_table removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_kitchen_drawer removed now.
+[21May2025 02:33:22.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_mail_box removed now.
+[21May2025 02:33:22.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_kitchen_sink removed now.
+[21May2025 02:33:22.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_kitchen_sink removed now.
+[21May2025 02:33:22.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_kitchen_sink_dark removed now.
+[21May2025 02:33:22.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_park_bench removed now.
+[21May2025 02:33:22.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_crate removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_kitchen_drawer removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_birch_kitchen_sink_dark removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_cabinet removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_kitchen_sink_light removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:jungle_kitchen_sink_dark removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_kitchen_drawer removed now.
+[21May2025 02:33:22.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_sink_dark removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_trampoline removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_mail_box removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_kitchen_drawer removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_mail_box removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_trampoline removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_cabinet removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_kitchen_sink removed now.
+[21May2025 02:33:22.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_grill removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_desk_cabinet removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_cooler removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_kitchen_sink removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:blue_kitchen_drawer removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_trampoline removed now.
+[21May2025 02:33:22.116] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_grill removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:fridge_light removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_chair removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_cooler removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_table removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_kitchen_drawer removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_kitchen_sink_light removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_trampoline removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.117] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_drawer removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_mail_box removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_kitchen_sink_dark removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_kitchen_drawer removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_desk removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_park_bench removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:purple_kitchen_sink removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_cooler removed now.
+[21May2025 02:33:22.118] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_mail_box removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_upgraded_fence removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_cooler removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_warped_kitchen_sink_light removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_mail_box removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:lime_trampoline removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_kitchen_drawer removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_cooler removed now.
+[21May2025 02:33:22.119] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_kitchen_drawer removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_cooler removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_crimson_kitchen_sink_light removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_sink_light removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:pink_kitchen_drawer removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_kitchen_drawer removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_blinds removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_coffee_table removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:mangrove_kitchen_drawer removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:red_trampoline removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:brown_trampoline removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_picket_fence removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_cooler removed now.
+[21May2025 02:33:22.120] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_gray_cooler removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_kitchen_drawer removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:green_trampoline removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_sink_light removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:acacia_kitchen_sink_light removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:light_blue_trampoline removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_kitchen_drawer removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_chair removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_kitchen_drawer removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_acacia_mail_box removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:magenta_grill removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_desk_cabinet removed now.
+[21May2025 02:33:22.121] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_table removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:black_grill removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_grill removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:crimson_kitchen_drawer removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_upgraded_gate removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:warped_kitchen_sink_light removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:cyan_grill removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_mangrove_mail_box removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:birch_mail_box removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_mail_box removed now.
+[21May2025 02:33:22.122] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:post_box removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:gray_kitchen_sink removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:white_kitchen_sink removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_kitchen_sink_dark removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:orange_cooler removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:spruce_kitchen_counter removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:dark_oak_mail_box removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_jungle_kitchen_sink_light removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_desk removed now.
+[21May2025 02:33:22.123] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_spruce_kitchen_sink_dark removed now.
+[21May2025 02:33:22.124] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_crate removed now.
+[21May2025 02:33:22.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:45007] logged in with entity id 1271 at (4202.306518008488, 73.5, 3374.0882206141873)
+[21May2025 02:33:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
