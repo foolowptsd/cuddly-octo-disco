@@ -8887,3 +8887,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 03:46:53.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> voy a esperar a que se duerma mi mom
 [21May2025 03:46:54.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
 [21May2025 03:46:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[21May2025 03:57:10.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [Isn't It Iron Pick]
+[21May2025 04:01:43.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[21May2025 04:01:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
