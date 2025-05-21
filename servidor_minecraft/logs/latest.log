@@ -6686,3 +6686,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 16:40:58.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 1.7145195929965666
 [21May2025 16:40:58.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KairosArch) moved wrongly! 2.102984273204129
 [21May2025 16:41:48.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15780, l='ServerLevel[madafaka]', x=2288.82, y=62.49, z=3503.12] died, message: 'Villager was slain by Drowned'
+[21May2025 16:44:47.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15779, l='ServerLevel[madafaka]', x=2271.65, y=62.49, z=3502.09] died, message: 'Villager was slain by Drowned'
+[21May2025 16:45:07.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has reached the goal [Horror of the Depths]
+[21May2025 16:45:22.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has made the advancement [Disgusting Lootbox]
+[21May2025 16:48:46.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15712, l='ServerLevel[madafaka]', x=2290.07, y=62.46, z=3485.28] died, message: 'Villager was slain by Drowned'
+[21May2025 16:50:37.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Timed out
+[21May2025 16:50:37.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
+[21May2025 16:55:58.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26693, l='ServerLevel[madafaka]', x=2323.18, y=62.47, z=3439.44] died, message: 'Villager was slain by Drowned'
+[21May2025 16:58:28.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26682, l='ServerLevel[madafaka]', x=2330.88, y=62.53, z=3439.48] died, message: 'Villager was slain by Drowned'
+[21May2025 17:01:10.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.86.62.210:40841] logged in with entity id 28620 at (2246.8367873517595, 63.0, 3334.9015997142183)
+[21May2025 17:01:10.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[21May2025 17:02:51.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch fell from a high place
+[21May2025 17:07:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Horror of the Depths]
