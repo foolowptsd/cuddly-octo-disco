@@ -6201,3 +6201,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [21May2025 02:33:22.124] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: cfm:stripped_dark_oak_crate removed now.
 [21May2025 02:33:22.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:45007] logged in with entity id 1271 at (4202.306518008488, 73.5, 3374.0882206141873)
 [21May2025 02:33:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[21May2025 02:53:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has reached the goal [Quaint Scribe]
+[21May2025 03:00:13.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was slain by blackdesfail

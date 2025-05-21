@@ -4834,6 +4834,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-21 02:53:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-21 02:53:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-05-21 02:32:27 +0000"
@@ -4843,6 +4855,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-21 02:32:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-21 02:53:49 +0000"
     },
     "done": true
   },
